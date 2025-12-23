@@ -1,4 +1,4 @@
-module github.com/agilezebra/jwt-middleware
+module github.com/xpofei/jwt-middleware
 
 go 1.25.4
 

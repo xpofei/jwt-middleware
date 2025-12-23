@@ -8,8 +8,8 @@ import (
 	"log"
 	"strings"
 
-	"github.com/agilezebra/jwt-middleware/logger"
 	"github.com/danwakefield/fnmatch"
+	"github.com/xpofei/jwt-middleware/logger"
 )
 
 // Requirement is the interface for a requirement that can be validated against a value.
